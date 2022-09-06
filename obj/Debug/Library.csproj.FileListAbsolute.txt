@@ -1,0 +1,83 @@
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\bin\Debug\Library.exe
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\bin\Debug\Library.pdb
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\bin\Debug\aa-ER\Library.resources.dll
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\bin\Debug\Guna.UI2.dll
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.Books.resources
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.Dashboard.resources
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.Login.resources
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.Splash.resources
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.Users.resources
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.Dashboard.aa-ER.resources
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\aa-ER\Library.resources.dll
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.exe
+C:\Users\Margar\Desktop\Libraryv2\Library\Library\obj\Debug\Library.pdb
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\bin\Debug\Library.exe.config
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\bin\Debug\Library.exe
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\bin\Debug\Library.pdb
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\bin\Debug\aa-ER\Library.resources.dll
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\bin\Debug\Guna.UI2.dll
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.Billing.resources
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.Books.resources
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.Dashboard.resources
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.Login.resources
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.Splash.resources
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.Users.resources
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.Dashboard.aa-ER.resources
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\aa-ER\Library.resources.dll
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.exe
+C:\Users\ugniu\Downloads\Libraryv2\Library\Library\obj\Debug\Library.pdb
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\bin\Debug\Library.exe
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\bin\Debug\Library.pdb
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\bin\Debug\aa-ER\Library.resources.dll
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\bin\Debug\Guna.UI2.dll
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Billing.resources
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Books.resources
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Dashboard.resources
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Login.resources
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Splash.resources
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Users.resources
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Dashboard.aa-ER.resources
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\aa-ER\Library.resources.dll
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.exe
+C:\Users\Margar\Desktop\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.pdb
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\bin\Debug\Library.exe
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\bin\Debug\Library.pdb
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\bin\Debug\Guna.UI2.dll
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Billing.resources
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Books.resources
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Login.resources
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Splash.resources
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.Users.resources
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.exe
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.pdb
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.BillingForUser.resources
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.DashBoardSkydelis.resources
+C:\Users\Margar\Desktop\UNI\code\Libraryv2 (1)\Libraryv2\Library\Library\obj\Debug\Library.AdminLogin.resources
