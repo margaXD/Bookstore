@@ -1,33 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 namespace Library
 {
-    public partial class Users : Form
+    public class Users : Form
     {
         public Users()
         {
             InitializeComponent();
             populate();
         }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Margar\Documents\LibraryDatabase.mdf;Integrated Security=True;Connect Timeout=30");
+        readonly SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Margar\Documents\LibraryDatabase.mdf;Integrated Security=True;Connect Timeout=30");
         private void button1_Click(object sender, EventArgs e)
         {
             if (UsrName.Text == "" || Phone.Text == "" || Address.Text == "" || Passwrd.Text == "")
@@ -39,13 +23,12 @@ namespace Library
                 try
                 {
                     Con.Open();
-                    string query = "insert into UserTable values('" + UsrName.Text + "','" + Phone.Text + "','" + Address.Text + "'," + Passwrd.Text + ")";
+                    string query = "insert into UserTable values(";
                     SqlCommand cmd = new SqlCommand(query, Con);
                     cmd.ExecuteNonQuery();
                     MessageBox.Show("Vartotojas išsaugotas");
                     Con.Close();
                     populate();
-                    //Reset();
                 }
                 catch (Exception Ex)
                 {
@@ -59,7 +42,6 @@ namespace Library
             Con.Open();
             string query = "select * from UserTable";
             SqlDataAdapter sda = new SqlDataAdapter(query, Con);
-            SqlCommandBuilder builder = new SqlCommandBuilder(sda);
             var ds = new DataSet();
             sda.Fill(ds);
             UserGrid.DataSource = ds.Tables[0];
@@ -77,7 +59,7 @@ namespace Library
             Address.Text = "";
             Passwrd.Text = "";
         }
-        int key = 0;
+        int key;
 
         private void DeleteBtn_Click(object sender, EventArgs e)
         {
@@ -160,11 +142,6 @@ namespace Library
             Billing log = new Billing();
             log.Show();
             this.Hide();
-        }
-
-        private void label10_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void pictureBox1_Click_1(object sender, EventArgs e)
